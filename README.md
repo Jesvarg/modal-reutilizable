@@ -2,23 +2,23 @@
 
 Un componente modal reutilizable construido con React, Tailwind CSS y Framer Motion.
 
-## ✨ Características
+## Características
 
 - **Reutilizable**: Patrón de composición que permite cualquier contenido
 - **Animaciones Suaves**: Transiciones con Framer Motion
 - **Responsivo**: Adaptable a cualquier tamaño de pantalla
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **React 18**
 - **Tailwind CSS** 
 - **JavaScript**
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/Jesvarg/modal-react.git
+git clone https://github.com/Jesvarg/modal-reutilizable
 cd modal-react
 
 # Instalar dependencias
@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-## 🎯 Casos de Uso Implementados
+## Casos de Uso Implementados
 
 ### 1. Mensaje Simple
 Modal para confirmaciones y alertas con diferentes tipos (éxito, error, info).
@@ -40,7 +40,7 @@ Modal con formulario, validación en tiempo real y manejo de errores.
 Modal para visualizar imágenes con navegación, miniaturas y acciones sociales.
 
 
-## 📁 Estructura
+## Estructura
 
 ```
 src/
@@ -53,7 +53,7 @@ src/
 └── App.jsx                          
 ```
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - ✅ Modal controlado por componente padre
 - ✅ Composición de componentes
